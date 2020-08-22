@@ -3,8 +3,8 @@ A Minecraft Datapack that adds a new dimension to the game: The Mushroom Highlan
 
 The Datapack add's a whole new dimension, wich features new items, mobs and structures.
 
-#### Features:
+#### Coming Soon:
 - New structures
 - New mobs
-- New items (done)
+- New items (almost done)
 
