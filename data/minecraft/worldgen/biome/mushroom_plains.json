@@ -24,7 +24,7 @@
       "probability": 0.118093334
     },
     "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
-    "grass_color": 11564013,
+    "grass_color": 2418413,
     "foliage_color": 15535853,
     "sky_color": 7254527,
     "fog_color": 6840176,
@@ -41,8 +41,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_water",
-      "minecraft:lake_lava"
+      "minecraft:lake_water"
     ],
     [],
     [],

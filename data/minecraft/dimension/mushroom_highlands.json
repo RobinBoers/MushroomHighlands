@@ -62,7 +62,7 @@
 				}
 			  ]
 		},
-		"settings": "minecraft:floating_islands",
-		"type": "minecraft:noise"
+		"type": "minecraft:noise",
+		"settings": "minecraft:floating_islands"
 	}
 }
