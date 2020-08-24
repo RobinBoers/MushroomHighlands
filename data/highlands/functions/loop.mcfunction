@@ -1,7 +1,7 @@
 ### MAIN FUNCTION FILE (LOOPS EVERY GAMETICK) ###
 
 ### Debug info
-# say YeEtz2!
+# say YeEtz!
 
 ### Transport between Dimensions
 
