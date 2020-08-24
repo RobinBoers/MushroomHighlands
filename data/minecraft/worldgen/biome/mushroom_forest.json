@@ -70,7 +70,8 @@
   ],
   "starts": [
       "minecraft:village_plains",
-      "minecraft:shipwreck_beached"
+      "minecraft:shipwreck_beached",
+      "minecraft:sky_temple"
   ],
   "spawners": {
     "monster": [

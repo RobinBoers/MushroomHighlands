@@ -71,7 +71,8 @@
     ]
   ],
   "starts": [
-      "minecraft:village_plains"
+      "minecraft:village_plains",
+      "minecraft:sky_temple"
   ],
   "spawners": {
     "monster": [],
@@ -99,7 +100,7 @@
   "player_spawn_friendly": false,
   "precipitation": "rain",
   "temperature": 0.9,
-  "downfall": 1.0,
+  "downfall": 0.0,
   "category": "plains",
   "depth": 0.2
 }
