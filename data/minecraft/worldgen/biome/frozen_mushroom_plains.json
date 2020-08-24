@@ -75,7 +75,7 @@
   "player_spawn_friendly": false,
   "precipitation": "snow",
   "temperature": 0.0,
-  "downfall": 0.5,
+  "downfall": 0.0,
   "category": "icy",
   "depth": 0.425
 }

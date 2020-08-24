@@ -44,8 +44,7 @@
     ],
     [],
     [
-      "minecraft:spring_lava",
-      "minecraft:crimson_forest_vegetation"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -123,7 +122,7 @@
   "player_spawn_friendly": false,
   "precipitation": "none",
   "temperature": 2.0,
-  "downfall": 0.2,
+  "downfall": 0.0,
   "category": "plains",
   "depth": 0.425
 }
