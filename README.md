@@ -1,7 +1,9 @@
 ## The Mushroom Higlands
 A Minecraft Datapack that adds a new dimension to the game: The Mushroom Highlands. It's inspired by the famous Minecraft mod The Aether, and a other datapack made by VelVoxel Raptor, called the Dream Dimension.
 
-![Mushroom Higlands Logo](pack.png)
+<img src="pack.png"
+     alt="Mushroom Higlands Logo"
+     style="float: right; margin: 10px;" align="right" />
 
 The Datapack add's a whole new dimension, wich features new items, mobs, biomes and structures.
 
